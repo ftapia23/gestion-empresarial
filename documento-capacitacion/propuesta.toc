@@ -1,0 +1,3 @@
+\select@language {spanish}
+\contentsline {section}{\numberline {1}Capacitaci\IeC {\'o}n para el personal de log\IeC {\'\i }stica}{3}
+\contentsline {subsection}{\numberline {1.1}Necesidad}{3}
