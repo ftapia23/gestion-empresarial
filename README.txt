@@ -10,6 +10,10 @@ realizar un checkout del proyecto que necesitamos (remoto)
 	Ejemplo
 	git clone https://github.com/ftapia23/gestion-empresarial.git
 
+Si no quieres clonarlo, y sólo quieres conectarlo a un repo remoto utiliza
+el siguiente comando (Sugerencia, utilizar el paso anterior)
+	git remote add origin <server>
+
 Adjuntar archivo
 	git add archivo
 
